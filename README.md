@@ -8,3 +8,6 @@ GHCi, version 7.10.3
 - Bubble Sort
 - Merge Sort
 - Quick Sort
+
+### Others
+- Euclid's algorithm
