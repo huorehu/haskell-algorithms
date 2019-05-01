@@ -12,3 +12,4 @@ GHCi, version 7.10.3
 ### Others
 - Euclid's algorithm
 - Newton's method
+- Huffman coding
