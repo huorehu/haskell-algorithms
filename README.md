@@ -5,6 +5,7 @@ GHCi, version 7.10.3
 
 ### Sorting algorithms
 - Insert Sort
+- Selection Sort
 - Bubble Sort
 - Merge Sort
 - Quick Sort
