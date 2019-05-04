@@ -14,3 +14,4 @@ GHCi, version 7.10.3
 - Euclid's algorithm
 - Newton's method
 - Huffman coding
+- LZ77
